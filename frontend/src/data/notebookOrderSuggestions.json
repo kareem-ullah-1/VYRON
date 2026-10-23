@@ -1,0 +1,10 @@
+{
+    "paperSize": ["18x23", "18x28", "19x28", "20x30"],
+    "paperQuality": ["AA", "Al-Karam", "Other", "Premier"],
+    "bindingType": ["Gum", "Pin", "Pin-Gum", "SEW-GUM"],
+    "printColor": ["Multi color", "Single color", "Two color"],
+    "cardMaterial": ["Bleach Card 250gm", "Bleach Card 300gm", "Box Board 250gm", "Box Board 300gm"],
+    "lamination": ["Gloss", "Matt", "No"],
+    "indexPages": ["None", "1 Page", "2 Page"],
+    "diaryStyle": ["Daily", "Desk", "Executive", "Pocket", "Weekly"]
+}

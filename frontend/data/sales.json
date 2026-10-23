@@ -1,0 +1,192 @@
+[
+  {
+    "id": "SALE-001",
+    "customerId": "1",
+    "customerName": "John Smith",
+    "items": [
+      {
+        "productId": "1",
+        "productName": "iPhone 15 Pro",
+        "quantity": 1,
+        "price": 999.99,
+        "total": 999.99
+      },
+      {
+        "productId": "5",
+        "productName": "AirPods Pro 2nd Gen",
+        "quantity": 1,
+        "price": 249.99,
+        "total": 249.99
+      }
+    ],
+    "subtotal": 1249.98,
+    "tax": 99.99,
+    "discount": 0,
+    "total": 1349.97,
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "date": "2024-01-20T14:22:00Z",
+    "cashierId": "1",
+    "cashierName": "John Smilga",
+    "notes": "Customer requested gift wrapping"
+  },
+  {
+    "id": "SALE-002",
+    "customerId": "2",
+    "customerName": "Sarah Johnson",
+    "items": [
+      {
+        "productId": "3",
+        "productName": "Samsung Galaxy S24",
+        "quantity": 1,
+        "price": 899.99,
+        "total": 899.99
+      }
+    ],
+    "subtotal": 899.99,
+    "tax": 72.00,
+    "discount": 50.00,
+    "total": 921.99,
+    "paymentMethod": "cash",
+    "status": "completed",
+    "date": "2024-01-19T16:45:00Z",
+    "cashierId": "2",
+    "cashierName": "Jane Doe",
+    "notes": "Student discount applied"
+  },
+  {
+    "id": "SALE-003",
+    "customerId": "3",
+    "customerName": "Michael Brown",
+    "items": [
+      {
+        "productId": "2",
+        "productName": "MacBook Pro 16\"",
+        "quantity": 2,
+        "price": 2499.99,
+        "total": 4999.98
+      },
+      {
+        "productId": "6",
+        "productName": "iPad Air 5th Gen",
+        "quantity": 1,
+        "price": 599.99,
+        "total": 599.99
+      }
+    ],
+    "subtotal": 5599.97,
+    "tax": 448.00,
+    "discount": 200.00,
+    "total": 5847.97,
+    "paymentMethod": "bank_transfer",
+    "status": "completed",
+    "date": "2024-01-18T11:30:00Z",
+    "cashierId": "1",
+    "cashierName": "John Smilga",
+    "notes": "Bulk order discount"
+  },
+  {
+    "id": "SALE-004",
+    "customerId": "4",
+    "customerName": "Emily Davis",
+    "items": [
+      {
+        "productId": "8",
+        "productName": "Apple Watch Series 9",
+        "quantity": 1,
+        "price": 399.99,
+        "total": 399.99
+      }
+    ],
+    "subtotal": 399.99,
+    "tax": 32.00,
+    "discount": 0,
+    "total": 431.99,
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "date": "2024-01-17T13:45:00Z",
+    "cashierId": "3",
+    "cashierName": "Mike Johnson",
+    "notes": ""
+  },
+  
+  {
+    "id": "SALE-006",
+    "customerId": "6",
+    "customerName": "Lisa Anderson",
+    "items": [
+      {
+        "productId": "6",
+        "productName": "iPad Air 5th Gen",
+        "quantity": 1,
+        "price": 599.99,
+        "total": 599.99
+      }
+    ],
+    "subtotal": 599.99,
+    "tax": 48.00,
+    "discount": 50.00,
+    "total": 597.99,
+    "paymentMethod": "cash",
+    "status": "completed",
+    "date": "2024-01-15T15:30:00Z",
+    "cashierId": "2",
+    "cashierName": "Jane Doe",
+    "notes": "Price match guarantee"
+  },
+  {
+    "id": "SALE-007",
+    "customerId": "7",
+    "customerName": "Robert Taylor",
+    "items": [
+      {
+        "productId": "1",
+        "productName": "iPhone 15 Pro",
+        "quantity": 1,
+        "price": 999.99,
+        "total": 999.99
+      },
+      {
+        "productId": "8",
+        "productName": "Apple Watch Series 9",
+        "quantity": 1,
+        "price": 399.99,
+        "total": 399.99
+      }
+    ],
+    "subtotal": 1399.98,
+    "tax": 112.00,
+    "discount": 0,
+    "total": 1511.98,
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "date": "2024-01-14T12:15:00Z",
+    "cashierId": "3",
+    "cashierName": "Mike Johnson",
+    "notes": "Bundle deal"
+  },
+  {
+    "id": "SALE-008",
+    "customerId": "8",
+    "customerName": "Jennifer Martinez",
+    "items": [
+      {
+        "productId": "4",
+        "productName": "Dell XPS 13",
+        "quantity": 1,
+        "price": 1299.99,
+        "total": 1299.99
+      }
+    ],
+    "subtotal": 1299.99,
+    "tax": 104.00,
+    "discount": 100.00,
+    "total": 1303.99,
+    "paymentMethod": "bank_transfer",
+    "status": "completed",
+    "date": "2024-01-13T09:45:00Z",
+    "cashierId": "1",
+    "cashierName": "John Smilga",
+    "notes": "Corporate purchase"
+  }
+]

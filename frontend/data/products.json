@@ -1,0 +1,235 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 15 Pro",
+    "description": "Latest iPhone with advanced camera system",
+    "price": 999.99,
+    "cost": 700,
+    "category": "Electronics",
+    "sku": "IPH15PRO-001",
+    "barcode": "1234567890123",
+    "stock": 25,
+    "lowStockThreshold": 5,
+    "image": "/products/iphone15.jpg",
+    "status": "active",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:22:00Z"
+  },
+  {
+    "id": "2",
+    "name": "MacBook Pro 16\"",
+    "description": "Professional laptop with M3 Pro chip",
+    "price": 2499.99,
+    "cost": 1800,
+    "category": "Electronics",
+    "sku": "MBP16-001",
+    "barcode": "1234567890124",
+    "stock": 8,
+    "lowStockThreshold": 3,
+    "image": "/products/macbook-pro.jpg",
+    "status": "active",
+    "createdAt": "2024-01-10T09:15:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Samsung Galaxy S24",
+    "description": "Premium Android smartphone with AI features",
+    "price": 899.99,
+    "cost": 650,
+    "category": "Electronics",
+    "sku": "GALAXY-S24-001",
+    "barcode": "1234567890125",
+    "stock": 15,
+    "lowStockThreshold": 5,
+    "image": "/products/galaxy-s21.jpg",
+    "status": "active",
+    "createdAt": "2024-01-12T11:20:00Z",
+    "updatedAt": "2024-01-19T13:30:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Dell XPS 13",
+    "description": "Ultrabook with Intel i7 processor",
+    "price": 1299.99,
+    "cost": 950,
+    "category": "Electronics",
+    "sku": "DELL-XPS13-001",
+    "barcode": "1234567890126",
+    "stock": 12,
+    "lowStockThreshold": 4,
+    "image": "/products/dell-xps.jpg",
+    "status": "active",
+    "createdAt": "2024-01-08T14:45:00Z",
+    "updatedAt": "2024-01-17T10:15:00Z"
+  },
+  {
+    "id": "5",
+    "name": "AirPods Pro 2nd Gen",
+    "description": "Wireless earbuds with noise cancellation",
+    "price": 249.99,
+    "cost": 150,
+    "category": "Accessories",
+    "sku": "AIRPODS-PRO2-001",
+    "barcode": "1234567890127",
+    "stock": 3,
+    "lowStockThreshold": 5,
+    "image": "/products/airpods-pro.jpg",
+    "status": "active",
+    "createdAt": "2024-01-05T16:30:00Z",
+    "updatedAt": "2024-01-16T12:20:00Z"
+  },
+  {
+    "id": "6",
+    "name": "iPad Air 5th Gen",
+    "description": "Tablet with M1 chip and 10.9-inch display",
+    "price": 599.99,
+    "cost": 400,
+    "category": "Electronics",
+    "sku": "IPAD-AIR5-001",
+    "barcode": "1234567890128",
+    "stock": 18,
+    "lowStockThreshold": 6,
+    "image": "/products/ipad-air.jpg",
+    "status": "active",
+    "createdAt": "2024-01-03T08:45:00Z",
+    "updatedAt": "2024-01-15T09:30:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Sony WH-1000XM5",
+    "description": "Premium noise-canceling headphones",
+    "price": 399.99,
+    "cost": 250,
+    "category": "Accessories",
+    "sku": "SONY-WH1000XM5-001",
+    "barcode": "1234567890129",
+    "stock": 7,
+    "lowStockThreshold": 3,
+    "image": "/products/sony-headphones.jpg",
+    "status": "active",
+    "createdAt": "2024-01-07T13:20:00Z",
+    "updatedAt": "2024-01-14T15:45:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Apple Watch Series 9",
+    "description": "Smartwatch with health monitoring features",
+    "price": 399.99,
+    "cost": 280,
+    "category": "Wearables",
+    "sku": "APPLE-WATCH-S9-001",
+    "barcode": "1234567890130",
+    "stock": 22,
+    "lowStockThreshold": 8,
+    "image": "/products/apple-watch.jpg",
+    "status": "active",
+    "createdAt": "2024-01-01T12:00:00Z",
+    "updatedAt": "2024-01-13T11:15:00Z"
+  },
+  {
+    "id": "9",
+    "productName": "f",
+    "description": "",
+    "category": "f",
+    "categoryId": 0,
+    "barcode": "",
+    "variants": [
+      {
+        "price": 0,
+        "stock": 0,
+        "attributes": [
+          {
+            "attributeId": 0.35673075941408605,
+            "attributeName": "",
+            "attributeValue": ""
+          }
+        ]
+      }
+    ],
+    "price": 0,
+    "stock": 0,
+    "createdAt": "2025-10-24T10:22:08.388Z",
+    "updatedAt": "2025-10-24T10:22:08.388Z"
+  },
+  {
+    "id": "10",
+    "productName": "d",
+    "description": "",
+    "category": "d",
+    "categoryId": 0,
+    "barcode": "",
+    "variants": [
+      {
+        "price": 0,
+        "stock": 0,
+        "attributes": []
+      },
+      {
+        "price": 0,
+        "stock": 0,
+        "attributes": [
+          {
+            "attributeId": 0.07407040482241989,
+            "attributeName": "",
+            "attributeValue": ""
+          }
+        ]
+      }
+    ],
+    "price": 0,
+    "stock": 0,
+    "createdAt": "2025-10-24T10:25:28.099Z",
+    "updatedAt": "2025-10-24T10:25:28.099Z"
+  },
+  {
+    "id": "11",
+    "productName": "tt",
+    "description": "",
+    "category": "tt",
+    "categoryId": 0,
+    "barcode": "",
+    "variants": [
+      {
+        "price": 0,
+        "stock": 0,
+        "attributes": [
+          {
+            "attributeId": 0.3276440151230642,
+            "attributeName": "Pages",
+            "attributeValue": "60"
+          }
+        ]
+      }
+    ],
+    "price": 0,
+    "stock": 0,
+    "createdAt": "2025-10-24T11:06:18.584Z",
+    "updatedAt": "2025-10-24T11:06:18.584Z"
+  },
+  {
+    "id": "12",
+    "productName": "Test",
+    "description": "",
+    "category": "Test",
+    "categoryId": 0,
+    "barcode": "",
+    "variants": [
+      {
+        "price": 3,
+        "stock": 3,
+        "attributes": [
+          {
+            "attributeId": 0.3863083295862614,
+            "attributeName": "Size",
+            "attributeValue": "L"
+          }
+        ]
+      }
+    ],
+    "price": 3,
+    "stock": 3,
+    "createdAt": "2025-10-24T11:08:19.595Z",
+    "updatedAt": "2025-10-24T11:08:19.595Z"
+  }
+]

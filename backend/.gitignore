@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+uploads/*
+!uploads/.gitkeep
+
+# Prisma generated client (regenerated during build via prisma generate)
+src/generated/

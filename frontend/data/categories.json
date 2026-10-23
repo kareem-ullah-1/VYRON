@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Electronics",
+    "description": "Electronic devices and gadgets",
+    "parentId": null,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Accessories",
+    "description": "Device accessories and peripherals",
+    "parentId": null,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Wearables",
+    "description": "Smartwatches and fitness trackers",
+    "parentId": null,
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Smartphones",
+    "description": "Mobile phones and smartphones",
+    "parentId": "1",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Laptops",
+    "description": "Portable computers and laptops",
+    "parentId": "1",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Tablets",
+    "description": "Tablet computers and iPads",
+    "parentId": "1",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Audio",
+    "description": "Headphones, speakers, and audio equipment",
+    "parentId": "2",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Smart Watches",
+    "description": "Smartwatches and fitness bands",
+    "parentId": "3",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]
